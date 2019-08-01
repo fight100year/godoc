@@ -5,8 +5,8 @@
 
 ## go语言specification
 
-- [  ] [介绍](/spec/introduction.md)
-- [  ] [符号](/spec/notation.md)
+- [x] [介绍](/spec/introduction.md)
+- [ ] [符号](/spec/notation.md)
 
 ## 内存模型
 
