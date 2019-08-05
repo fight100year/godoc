@@ -8,6 +8,8 @@
 - [x] [介绍](/spec/introduction.md)
 - [x] [符号](/spec/notation.md)
 - [x] [源码显示格式](/spec/source-code.md)
+- [x] [词法](/spec/lexical.md)
+- [ ] [常量](/spec/constants.md)
 
 ## 内存模型
 
