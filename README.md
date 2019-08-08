@@ -9,7 +9,10 @@
 - [x] [符号](/spec/notation.md)
 - [x] [源码显示格式](/spec/source-code.md)
 - [x] [词法](/spec/lexical.md)
-- [ ] [常量](/spec/constants.md)
+- [x] [常量](/spec/constants.md)
+- [x] [类型](/spec/types.md)
+- [ ] [properties](/spec/properties.md) of types and values
+
 
 ## 内存模型
 
