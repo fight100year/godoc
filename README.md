@@ -11,7 +11,7 @@
 - [x] [词法](/spec/lexical.md)
 - [x] [常量](/spec/constants.md)
 - [x] [类型](/spec/types.md)
-- [ ] [properties](/spec/properties.md) of types and values
+- [x] [properties](/spec/properties.md) of types and values
 
 
 ## 内存模型
