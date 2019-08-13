@@ -13,6 +13,7 @@
 - [x] [类型](/spec/types.md)
 - [x] [属性](/spec/properties.md) of types and values
 - [x] [代码块](/spec/blocks.md)
+- [x] [声明和作用域](/spec/scope.md)
 
 
 ## 内存模型
